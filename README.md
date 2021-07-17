@@ -1,3 +1,3 @@
 # CompetitiveProgrammingSolution
 
-Contains Solutions from Sites like Hackerrank, Codechef etc.
+Contains Solutions from Site like Hackerrank. 
