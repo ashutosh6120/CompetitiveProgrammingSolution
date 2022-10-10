@@ -1,0 +1,22 @@
+
+import java.util.*;
+
+
+/* Name of the class has to be "Main" only if the class is public. */
+class CoinsandTriangles
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		// your code goes here
+		Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		while(t-->0){
+		    int n = sc.nextInt();
+		    int ans=0,j;
+            for(j=1;ans<=n;j++)
+                ans+=j;
+            System.out.println(j-2);
+		}
+        sc.close();
+	}
+}
