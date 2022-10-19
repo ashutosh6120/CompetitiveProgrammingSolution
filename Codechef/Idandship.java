@@ -23,7 +23,7 @@ class Idandship
 		            System.out.println("Frigate");
 		    }
 		}
-        sc.close();
+        	sc.close();
 	}
 }
 
