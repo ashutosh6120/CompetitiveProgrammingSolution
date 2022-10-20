@@ -3,6 +3,7 @@
 //@ ashutosh6120
 
 
+
 #include <iostream>
 #include <bits/stdc++.h> 
 using namespace std; 
@@ -13,4 +14,5 @@ int main()
     cin >> m >> n;
     res = n * m / 2;
     cout << res << endl;
+    return 0;
 }
